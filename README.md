@@ -1,2 +1,2 @@
 # DataScienceEcosystem
-My fist assignment for the Data Science class
+My first assignment for the Data Science class
